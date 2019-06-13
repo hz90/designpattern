@@ -1,4 +1,5 @@
 创建型模式
+创造对象
 Factory Method（工厂方法）
 AbstractFactory（抽象工厂）
 Builder（建造者）
@@ -7,6 +8,7 @@ Prototype（原型）
 Singleton（单例）
 
 结构型模式
+给对象增加新功能
 Adapter（适配器）
 Bridge（桥接）
 Decorator（装饰）
@@ -15,6 +17,7 @@ Composite（组合）
 Facade（外观）
 
 行为型模式
+对象间的通信
 Strategy（策略）
 Observer（观察者）
 TemplateMethod（模板方法）
